@@ -182,9 +182,9 @@ Future extensions could incorporate operational incident logs, weather, schedule
 
 The original project was developed in **Tableau** as part of the *Visualization and Story Telling using Tableau* coursework in 2026.
 
-- If the Tableau packaged workbook (`.twbx`) is available in this repository, download and open it using a compatible Tableau Desktop installation.
+- Download the .twbx file and open it using a compatible Tableau Desktop installation.
 - Use **KPI Selector**, **Borough Metric Selector**, **Top N Routes per Borough**, and **Minimum Route Volume** to explore different operational perspectives.
-- The screenshots in [`assets/`](assets/) are exported from the submitted academic report and document the reported results; they are **not live interactive dashboards**.
+- Note that the screenshots in [`assets/`](assets/) are exported from the submitted academic report and document the reported results.
 
 **Reproducibility note:** This README is based on the submitted academic report. It describes the documented calculations and observations; no independent audit of the underlying Tableau workbook was performed for this README.
 
@@ -196,4 +196,4 @@ The original project was developed in **Tableau** as part of the *Visualization 
 
 ---
 
-**Project by Mustafa Efe Yakın** · MSc Data Analytics · Berlin, Germany
+**Project by Mustafa Efe Yakın** · MSc Data Analytics ·
